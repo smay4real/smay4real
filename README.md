@@ -1,4 +1,4 @@
-- 👀  I love to build projects, make life easier and fun with code.
+- 👀  Love to build projects, make life easier, interesting and fun with code.
 - 🚀  I love contributing to Opensource Projects
 - 🌱 continous lerner
 - 💞️ I’m looking to collaborate on any kind of project pertaining coding
