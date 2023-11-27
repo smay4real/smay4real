@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mayowa shittu by github username: @smay4real
-- 👀 I’m interested in java
-- 🌱 I’m currently learning JavaScript
+- 👀  I love to build projects, make life easier and fun with code.
+- 🚀  I love contributing to Opensource Projects
+- 🌱 continous lerner
 - 💞️ I’m looking to collaborate on any kind of project pertaining coding
 - 📫 How to reach me, you can reach me via email: teejaypumpey@gmail.com or through github on @smay4real
 
