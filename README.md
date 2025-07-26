@@ -1,7 +1,7 @@
 - 👀  Love to build projects, make life easier, interesting and fun with code.
 - 🚀  I love contributing to Opensource Projects
-- 🌱 continous lerner
-- 💞️ I’m looking to collaborate on any kind of project pertaining coding
+- 🌱 continuous leaner
+- 💞️ I’m looking to collaborate on any kind of project pertaining coding and data analysis
 - 📫 How to reach me, you can reach me via email: teejaypumpey@gmail.com or through github on @smay4real
 
 <!---
